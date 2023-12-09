@@ -34,7 +34,7 @@ const Home = () => {
         color={"whiteAlpha.800"}
         mt={"-20"}
       >
-        Crypto-Market
+        Crypto_Market
       </Text>
     </Box>
   );
